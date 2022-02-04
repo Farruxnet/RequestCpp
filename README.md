@@ -1,2 +1,2 @@
 # RequestCpp
-C++ orqali so'rov yuborish
+C++ orqali HTTP so'rov yuborish
